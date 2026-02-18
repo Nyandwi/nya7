@@ -42,7 +42,7 @@ main {
 }
 
 h1 {
-  font-size: 1.55rem;
+  font-size: 2.2rem;
   font-weight: 500;
   margin-bottom: 16px;
   color: #333;
@@ -51,6 +51,7 @@ h1 {
 .intro-text p {
   margin-bottom: 12px;
   color: #333;
+  font-size: 0.95em;
 }
 
 .social-links {
