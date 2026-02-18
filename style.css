@@ -56,7 +56,7 @@ h1 {
 
 .social-links {
   margin-top: 8px;
-  margin-bottom: 44px;
+  margin-bottom: 16px;
   font-size: 0.93rem;
   color: #666;
 }
@@ -169,18 +169,6 @@ a:hover {
   text-decoration-color: #333;
 }
 
-/* ── Footer ── */
-footer {
-  margin-top: 56px;
-  padding-top: 24px;
-  font-size: 0.88rem;
-  color: #999;
-}
-
-footer a {
-  color: #999;
-  text-decoration-color: rgba(0, 0, 0, 0.15);
-}
 
 /* ── Mobile ── */
 @media (max-width: 560px) {
