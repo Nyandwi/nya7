@@ -51,11 +51,12 @@ h1 {
 .intro-text p {
   margin-bottom: 12px;
   color: #333;
-  font-size: 0.95em;
+  font-size: 0.9em;
 }
 
 .social-links {
-  margin-top: 16px;
+  margin-top: 8px;
+  margin-bottom: 20px;
   font-size: 0.93rem;
   color: #666;
 }
